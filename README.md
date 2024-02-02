@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/zulle09" target="blank"><img src="https://img.shields.io/twitter/follow/zulle09?logo=twitter&style=for-the-badge" alt="zulle09" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/zuliani99?tab=repositories](https://github.com/zuliani99?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/zuliani99?tab=repositories)
 
 - 💬 Ask me about **Computer Vision or Pytorch**
 
-- 📫 How to reach me through [LinkedIn]("https://linkedin.com/in/riccardo-zuliani")
+- 📫 How to reach me through [LinkedIn](https://linkedin.com/in/riccardo-zuliani)
 
 - ⚡ Fun fact **I love Formula 1 and MotoGP, and I'm looking forward to work in one of these two area**
 
