@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Computer Vision or Pytorch**
 
-- 📫 How to reach me **riccardo.zuliani99@gmail.com**
+- 📫 How to reach me through ["https://linkedin.com/in/riccardo-zuliani"](LinkedIn)
 
 - ⚡ Fun fact **I love Formula 1 and MotoGP, and I'm looking forward to work in one of these two area**
 
