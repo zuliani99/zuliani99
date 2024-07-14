@@ -5,14 +5,16 @@
 
 <p align="left"> <a href="https://twitter.com/zulle09" target="blank"><img src="https://img.shields.io/twitter/follow/zulle09?logo=twitter&style=for-the-badge" alt="zulle09" /></a> </p>
 
-- 👨‍💻 All of my projects are available [here](https://github.com/zuliani99?tab=repositories)
+- 🔬 I'm close to graduate. My thesis is about to create a newer Active learning strategy based on Graph Transduction Game algorithm, in collaboration with professor [Sebastiano Vascon](https://www.sebastianovascon.it/)
 
-- 💬 Ask me about **Computer Vision or Pytorch**
+- 👨‍💻 All of my projects are available [here](https://zuliani99.github.io/portfolio/)
+
+- 💬 I'm available to discuss new ideas and if you need any help on any of my previous projects feel free to reach me!
 
 - 📫 How to reach me through [LinkedIn](https://linkedin.com/in/riccardo-zuliani)
 
-- ⚡ Fun fact **I love Formula 1 and MotoGP, and I'm looking forward to work in one of these two area**
-
+- ⚡ I'm looking forward to apply my knowledge in the **motorsports world** on in the **aerospace - defense** sector.
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zulle09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zulle09" height="30" width="40" /></a>
