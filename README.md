@@ -13,7 +13,7 @@
 
 - 📫 You can reach me through [LinkedIn](https://linkedin.com/in/riccardo-zuliani)
 
-- ⚡ I'm looking forward to apply my knowledge in the **motorsports world** on in the **aerospace - defense** sector.
+- ⚡ I'm looking forward to apply my knowledge in the **motorsports world** or in the **aerospace - defense** sector.
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
