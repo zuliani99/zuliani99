@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Riccardo Zuliani</h1>
-<h3 align="center">A graduate Master CS student from Ca' Foscari University of Venice</h3>
+<h3 align="center">Machine Learning Engineer & Researcher at <a href="https://www.naisengineering.com/">NAIS</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuliani99&label=Profile%20views&color=0e75b6&style=flat" alt="zuliani99" /> </p>
 
 <p align="left"> <a href="https://twitter.com/zulle09" target="blank"><img src="https://img.shields.io/twitter/follow/zulle09?logo=twitter&style=for-the-badge" alt="zulle09" /></a> </p>
 
-- 🔬 My thesis is about creating a newer Active learning strategy based on the Graph Transduction Game algorithm, in collaboration with Professor [Sebastiano Vascon](https://www.sebastianovascon.it/)
+- 🤩 I'm passionate about Artificial Intelligence in particular its application on the Computer Vision field.
 
 - 👨‍💻 All of my projects are available [here](https://zuliani99.github.io/portfolio/)
 
 - 💬 I'm available to discuss new ideas and if you need any help on any of my previous projects feel free to reach me!
 
-- 📫 You can reach me through [LinkedIn](https://linkedin.com/in/riccardo-zuliani)
-
-- ⚡ I'm looking forward to apply my knowledge in the **motorsports world** or in the **aerospace - defense** sector.
+- ⚡ I'm looking forward to apply my knowledge in the **motorsports world**.
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
