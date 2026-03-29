@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riccardo Zuliani</h1>
-<h3 align="center">Machine Learning Engineer & Researcher at <a href="https://www.naisengineering.com/">NAIS</a></h3>
+<h3 align="center">Machine Learning Engineer & Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuliani99&label=Profile%20views&color=0e75b6&style=flat" alt="zuliani99" /> </p>
 
